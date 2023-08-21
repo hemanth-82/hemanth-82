@@ -6,7 +6,7 @@
 - 📫 How to reach me **hemanthjuturu9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="right">
+<p align="left">
 <a href="https://linkedin.com/in/hemanth-juturu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth-juturu" height="30" width="40" /></a>
 <a href="https://instagram.com/he.mant_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="he.mant_h" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hemanthjuturu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemanthjuturu9" height="30" width="40" /></a>
